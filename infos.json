@@ -51,6 +51,48 @@
                 "city":"city1",
                 "currency":"USD",
                 "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },
+            {
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            }
+        ]
+    },{
+        "date": "12/19/2024",
+        "tripData":[
+            {
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
             },
             {
                 "state":"Downtown Dubai",
@@ -70,6 +112,42 @@
                 "city":"city1",
                 "currency":"USD",
                 "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },
+            {
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            }
+        ]
+    },{
+        "date": "12/19/2024",
+        "tripData":[
+            {
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
             },
             {
                 "state":"Downtown Dubai",
@@ -78,6 +156,37 @@
                 "currency":"USD",
                 "currency_name":"dollar"
             },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },{
+                "state":"Downtown Dubai",
+                "capital":"Dubai",
+                "city":"city1",
+                "currency":"USD",
+                "currency_name":"dollar"
+            },
+            {
                 "state":"Downtown Dubai",
                 "capital":"Dubai",
                 "city":"city1",
