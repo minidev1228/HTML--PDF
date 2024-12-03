@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "path": "^0.12.7",
     "puppeteer": "^23.9.0"
   }
 }
